@@ -18,7 +18,9 @@
             <div class="row">
             <div class="col col-3">
                     <h4>Arya Singh</h4>
+                    <h4>Aditya Shanbhag</h4>
                     <h4>Parth Oberoi</h4>
+                    <h4>Yagnesh Tripathi</h4>
                 </div>
                 <div class="col col-2">
                     <h4>1234567890</h4>
@@ -26,13 +28,15 @@
                 </div>
                 <div class="col col-5">
                     <h4><a href='mailto:aryasixgh@gmail.com'>Email Me</a></h4>
-                    <h4><a href='mailto:'>Email Me</a></h4>
+                    <h4><a href='mailto:adi.sha.rt22@dypatil.edu'>Email Me</a></h4>
+                    <h4><a href='mailto:aryasixgh@gmail.com'>Email Me</a></h4>
+                    <h4><a href='mailto:aryasixgh@gmail.com'>Email Me</a></h4>
                 </div>
             </div>
             <br><br>
             <div class="alert alert-info" role="alert">
                 <center>
-                    <font color='brown' size='5'>Developed for TE CSBS Project</font>
+                    <font color='brown' size='5'>Developed for Academic Project</font>
                 </center>
             </div>
             <address>
